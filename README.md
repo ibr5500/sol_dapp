@@ -1,3 +1,3 @@
 # sol_dapp
 
-## Description: first dApp.
+## Description: first dApp and contract.
